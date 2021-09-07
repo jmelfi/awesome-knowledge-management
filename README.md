@@ -63,6 +63,7 @@
 - [An Interactive Introduction to Zettelkasten](https://binnyva.com/zettelkasten/#what-why-and-how-of-zettelkasten)
 - [Metacrap: Putting the torch to seven straw-men of the meta-utopia](https://people.well.com/user/doctorow/metacrap.htm)
 - [The Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+- [Why I don't use Semantic Web technologies anymore, even if they still influence me?](https://www.lespetitescases.net/why-I-dont-use-semantic-web-technologies-anymore-even-if-they-still-influence-me)
 
 ## Platforms, Applications and Tools
 
